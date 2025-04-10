@@ -1,0 +1,2 @@
+- EasyRoads3Dv3 materials is not supporting UR and HDR pipelines in Unity 6.
+Solution: currently replacing road materials with custom ones.
