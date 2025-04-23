@@ -27,8 +27,9 @@ Inspired by *Papers, Please*, the game takes it further with **AI-powered NPC in
 
 ## 🧪 Repository Contents
 
-- `scripts/` – Core gameplay and system logic (e.g., player decisions, NPC AI, document handling).
-- `screenshots/` – Visuals showing progress, mockups, and interface design.
+- `version [#]/` – This folder contains all showcase materials specific to **version [#]** of *Denied.*  
+- `version [#]/scripts/` – Core gameplay and system logic (e.g., player decisions, NPC AI, document handling) implemented or revised in this version.
+- `version [#]/screenshots/` – Visuals showing progress, mockups, and interface design implemented or revised in this version.
 - `CHANGELOG.md` – Logs development milestones, updates, and feature changes.
 - `README.md` – Project overview (this file).
 
