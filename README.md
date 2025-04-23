@@ -48,9 +48,8 @@ Inspired by *Papers, Please*, the game takes it further with **AI-powered NPC in
 
 Some featured systems include:
 
-- [`NPCDialogueManager.cs`](scripts/NPCDialogueManager.cs) – Controls AI-based NPC interactions.
-- [`DocumentSystem.cs`](scripts/DocumentSystem.cs) – Enables document creation/editing logic.
-- [`InspectionManager.cs`](scripts/InspectionManager.cs) – Handles rule-checking and decision-making flow.
+- ![``](scripts/) – 
+
 
 ---
 
